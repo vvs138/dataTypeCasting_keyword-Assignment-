@@ -1,0 +1,47 @@
+What are primitive data types in Java?
+There are many primitive data types in Java:-
+byte, short, int, long, float, double, char, String, boolean
+
+What are the Identifiers in Java?
+Identifiers are the symbolic representation in java. These are in variable names, method name, package name, class name.  There are some reserved words in java which are not Identifiers:- int,char,private,float etc..
+
+What is final class in Java?
+Final class means no others class can inherited to this class and considered to be the final class.
+
+What are the two ways to make a class final?
+First way is use the keyword final to make a class final and second way is use access modifiers name private.
+
+Can we create an instance of final class in another class?
+Yes we can create but can not be inherited.
+
+What is Volatile keyword used for ?
+Volatile keyword is use for declaration. Means a variable can be used by multiple threads .
+
+What is the use of Transient KeyFord ?
+It's use is to tell that field is not serialized.
+
+What are the types of casting?
+There are two types of casting in java:-
+Primitive casting:- When data is casted one primitive type to another primitive type (like-int,float etc)
+Derived casting:- When data is casted one derived type to another derived type is called derived casting.
+
+What is boxing and unboxing?
+Wrapping of primitive content into corresponding wrapper class object is called boxing. Unwrapping the
+wrapper class object into corresponding primitive content is called unboxing.
+
+What is the difference between keyFords, identifiers and literals in java ?
+Keywords are the reserved words that have a pre defined meaning for the compiler and hence are
+restricted to be used as identifiers.
+
+Identifiers are the name assigned to different programming constructs like classes, interfaces, methods ,
+variables etc.
+
+
+Literals are the values that are assigned to Identifiers.
+For example
+int count = 0;
+in the above statement "int" is a keyword, "count" is an identifier and "0" is a literal
+
+
+
+
